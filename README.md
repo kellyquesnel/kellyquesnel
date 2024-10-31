@@ -4,8 +4,8 @@ I'm part of GitHub's design team as a site designer. Welcome to my little corner
 
 ### A Bit About Me
 
-🌎 **Where I'm Working From :** Seattle, WA, currently soaking up inspiration from the beautiful PNW and fueling my creativity with plenty of coffee.
-🚀 **When I'm Not Designing... :** I'm probably out on a hike, hanging out with my cat, or daydreaming about my next travel destination. 
+🌎 **Where I'm Working From :** Seattle, WA, currently soaking up inspiration from the beautiful PNW and fueling my creativity with plenty of coffee </br>
+🚀 **When I'm Not Designing... :** I'm probably out on a hike, hanging out with my cat, or daydreaming about my next travel destination. </br>
 🎵 **Currently Listening To :** Let It Happen by Tame Impala  
 
 Thanks for stopping by! I'm always open to connecting and talking shop, so feel free to reach out if you'd like to chat design, creativity, or anything in between!
