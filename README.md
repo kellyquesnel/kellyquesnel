@@ -1,4 +1,14 @@
-## Hi there 👋
+## Hi there 👋 I'm Kelly! 
+
+I'm part of GitHub's design team as a site designer. Welcome to my little corner of GitHub! I value creating digital experiences that are meaningful, user-centered, and–– hopefully bring a little delight along the way. 
+
+### A Bit About Me
+
+🌎 **Where I'm Working From :** Seattle, WA, currently soaking up inspiration from the beautiful PNW and fueling my creativity with plenty of coffee.
+🚀 **When I'm Not Designing... :** I'm probably out on a hike, hanging out with my cat, or daydreaming about my next travel destination. 
+🎵 **Currently Listening To :** Let It Happen by Tame Impala  
+
+Thanks for stopping by! I'm always open to connecting and talking shop, so feel free to reach out if you'd like to chat design, creativity, or anything in between!
 
 <!--
 **kellyquesnel/kellyquesnel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
